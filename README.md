@@ -1,4 +1,4 @@
-This is the lab submissions of ECSP303 (Machine Learning Lab)
+This is the lab submissions of ECSP303 (Machine Learning Lab). 
 Machine learning is a field of artificial intelligence where computers learn from data to make predictions or decisions without being explicitly programmed. 
   It involves using algorithms to recognize patterns and improve performance over time.
 The cost function measures the difference between the predicted outputs and the actual outputs in a machine learning model, guiding the optimization process.
